@@ -1,0 +1,15 @@
+/home/saint/Desktop/FibonacciSeries/bin/Debug/net6.0/FibonacciSeries
+/home/saint/Desktop/FibonacciSeries/bin/Debug/net6.0/FibonacciSeries.deps.json
+/home/saint/Desktop/FibonacciSeries/bin/Debug/net6.0/FibonacciSeries.runtimeconfig.json
+/home/saint/Desktop/FibonacciSeries/bin/Debug/net6.0/FibonacciSeries.dll
+/home/saint/Desktop/FibonacciSeries/bin/Debug/net6.0/FibonacciSeries.pdb
+/home/saint/Desktop/FibonacciSeries/obj/Debug/net6.0/FibonacciSeries.csproj.AssemblyReference.cache
+/home/saint/Desktop/FibonacciSeries/obj/Debug/net6.0/FibonacciSeries.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/FibonacciSeries/obj/Debug/net6.0/FibonacciSeries.AssemblyInfoInputs.cache
+/home/saint/Desktop/FibonacciSeries/obj/Debug/net6.0/FibonacciSeries.AssemblyInfo.cs
+/home/saint/Desktop/FibonacciSeries/obj/Debug/net6.0/FibonacciSeries.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/FibonacciSeries/obj/Debug/net6.0/FibonacciSeries.dll
+/home/saint/Desktop/FibonacciSeries/obj/Debug/net6.0/refint/FibonacciSeries.dll
+/home/saint/Desktop/FibonacciSeries/obj/Debug/net6.0/FibonacciSeries.pdb
+/home/saint/Desktop/FibonacciSeries/obj/Debug/net6.0/FibonacciSeries.genruntimeconfig.cache
+/home/saint/Desktop/FibonacciSeries/obj/Debug/net6.0/ref/FibonacciSeries.dll
